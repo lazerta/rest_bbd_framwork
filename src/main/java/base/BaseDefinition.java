@@ -23,7 +23,7 @@ import java.util.Map;
 
 import static io.restassured.RestAssured.given;
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchema;
-import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
+
 
 public class BaseDefinition {
     private static final Logger log = LogManager.getLogger(BaseDefinition.class);
