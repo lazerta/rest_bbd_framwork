@@ -14,7 +14,7 @@
         <cucumber.version>5.0.0</cucumber.version>
         <restAssured.version>4.2.0</restAssured.version>
         <jackson.version>2.9.9</jackson.version>
-        <logger.version>2.11.2</logger.version>
+        <logger.version>2.13.3</logger.version>
     </properties>
     <dependencies>
         <dependency>
